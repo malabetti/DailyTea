@@ -1,0 +1,18 @@
+1) Funcionais:
+  -> Para o Usuário:
+    - Visualizar Chá do Dia: Acessar a página principal e ver a recomendação diária de chá.
+    - Ver Detalhes: Clicar no chá para ver suas informações completas (imagem, descrição etc).
+    - Explorar Histórico: Navegar por uma lista ou arquivo de recomendações de dias anteriores.
+
+  -> Para o Administrador:
+    - Gerenciar Chás: Adicionar, editar ou remover chás do sistema.
+    - Agendar Publicações: Definir qual chá será exibido em cada dia.
+
+2) Não Funcionais:
+  -> Desempenho: O site deve carregar rapidamente, mesmo com imagens.
+
+  -> Usabilidade: Deve ter um design limpo e ser responsivo.
+
+  -> Segurança: HTTPS.
+
+  -> Confiabilidade: Exibir mensagens de erro em caso de falha da API ou do sistema.

@@ -13,7 +13,7 @@ API: https://sampleapis.com/api-list/coffee
 Pedro M. Betti, Victor S. dos Santos, Luana I. Fantinatti, Lucas B. Palma
 
 Para abrir o projeto:
-    1. git clone https://github.com/malabetti/DailyTea.git
-    2. cd DailyTea
-    3. npm install
-    4. npm start
+1. git clone https://github.com/malabetti/DailyTea.git <br>
+2. cd DailyTea <br>
+3. npm install <br>
+4. npm start <br>
